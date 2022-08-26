@@ -32,8 +32,8 @@ import java.util.ArrayList;
  * 8], [13, 12, 11, 10, 9] ]
  * 
  * 
- * for input int a = 5 refer the following explanation
- * 
+ * for input int a = 5 refer the following explanation  
+ *   https://github.com/dpgithubRepo/dsa_streak/blob/master/src/day2/spiral_matrix.PNG
  * 
  * @author durgaprasad
  *
